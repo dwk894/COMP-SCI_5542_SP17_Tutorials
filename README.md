@@ -1,6 +1,7 @@
 # COMP-SCI_5542_SP17_Tutorials
 
 University of Missouri-Kansas City
+
 COMP-SCI 5542 (SP17) - Big Data Analytics and Applications
 
 Tutorial Assignments
