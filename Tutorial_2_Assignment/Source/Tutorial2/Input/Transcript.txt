@@ -1,0 +1,3 @@
+SS16    COMP-SCI    5560    3   Knowledge Discovery and Management  A
+FS16    COMP-SCI    5551    3   Advanced Software Engineering   A
+FS09    CHEM    5551    3   Classical Thermodynamics    B
