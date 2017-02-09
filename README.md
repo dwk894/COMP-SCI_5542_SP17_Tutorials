@@ -11,3 +11,5 @@ Tutorial Assignments
 Tutorial 1 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-1
 
 Tutorial 2 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-2
+
+Tutorial 3 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-3
