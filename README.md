@@ -19,3 +19,5 @@ Tutorial 4 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutoria
 Tutorial 5 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-5
 
 Tutorial 6 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-6
+
+Tutorial 7 - https://github.com/dwk894/COMP-SCI_5542_SP17_Tutorials/wiki/Tutorial-7
